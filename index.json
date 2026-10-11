@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "monty-helm-chart",
+  "versions": [
+    {
+      "commit": "2ef57eac252d32c871470b7e733e0f40197eded8",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:27:59.407262+00:00"
+    }
+  ]
+}
